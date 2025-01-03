@@ -47,7 +47,7 @@ const ImageGenerator = () => {
           AI Image Generator
         </h1>
         <p className="mt-2 text-gray-600">Using</p>
-        <a href="https://.gaianet.ai/user-guide/nodes?_highlight=image#text-to-image-realistic-vision">
+        <a href="https://docs.gaianet.ai/user-guide/nodes?_highlight=image#text-to-image-realistic-vision">
           GaiaNet
         </a>
       </div>
