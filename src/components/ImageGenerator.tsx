@@ -43,7 +43,10 @@ export default function ImageGenerator() {
           <Wand2 className="h-8 w-8" />
           AI Image Generator
         </h1>
-        <p className="mt-2 text-gray-600">Transform your ideas into stunning images with AI</p>
+        <p className="mt-2 text-gray-600">Using</p>
+        <a href="https://.gaianet.ai/user-guide/nodes?_highlight=image#text-to-image-realistic-vision">
+          GaiaNet
+        </a>
       </div>
 
       <form onSubmit={handleSubmit} className="space-y-4">
